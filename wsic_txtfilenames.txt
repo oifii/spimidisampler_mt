@@ -1,0 +1,624 @@
+wavfolder_a_celloensemble.txt
+wavfolder_additionalpercussion.txt
+wavfolder_a-d-e_celloensemble.txt
+wavfolder_asianpercussion.txt
+wavfolder_augustfoerster.txt
+wavfolder_band-acousticpiano_boesendorfer.txt
+wavfolder_band-acousticpiano_steingraeber.txt
+wavfolder_band-bass-bridgeandneck.txt
+wavfolder_band-bass-bridgebass.txt
+wavfolder_band-bass-neckbass.txt
+wavfolder_band-bass-uprightbass.txt
+wavfolder_band-drumkit-blingblingkit.txt
+wavfolder_band-drumkit-chocolatecitykit.txt
+wavfolder_band-drumkit-crystalkit.txt
+wavfolder_band-drumkit-funkkit.txt
+wavfolder_band-drumkit-jazzkit.txt
+wavfolder_band-drumkit-platinumpluskit.txt
+wavfolder_band-drumkit-popkit.txt
+wavfolder_band-drumkit-rockkit.txt
+wavfolder_band-drumkit-rollingicekit.txt
+wavfolder_band-drumkit-streetknowledgekit.txt
+wavfolder_band-drumkit-urbankit.txt
+wavfolder_band-electricpiano-fendermk2.txt
+wavfolder_band-electricpiano-hohnere7.txt
+wavfolder_band-electricpiano-wurlitzera200.txt
+wavfolder_band-guitar-akkordguitar.txt
+wavfolder_band-guitar-elektrikguitar.txt
+wavfolder_band-guitar-funkguitar.txt
+wavfolder_band-guitar-guitarbridgepickup.txt
+wavfolder_band-guitar-harmonicguitar.txt
+wavfolder_band-guitar-jazzguitar.txt
+wavfolder_band-guitar-nylonguitar.txt
+wavfolder_band-horns-altosaxophone.txt
+wavfolder_band-horns-baritonesaxophone.txt
+wavfolder_band-ir.txt
+wavfolder_band-organ-awhitershade.txt
+wavfolder_band-organ-b4blues.txt
+wavfolder_band-organ-borntob4.txt
+wavfolder_band-organ-circus.txt
+wavfolder_band-organ-coolcats.txt
+wavfolder_band-organ-disharmonica.txt
+wavfolder_band-organ-francescostrumpet.txt
+wavfolder_band-organ-houseplop.txt
+wavfolder_band-organ-indianropemen.txt
+wavfolder_band-organ-jazz.txt
+wavfolder_band-organ-jazzbasic.txt
+wavfolder_band-organ-jetaime.txt
+wavfolder_band-organ-marquee.txt
+wavfolder_band-organ-oyecomova.txt
+wavfolder_band-organ-prestonraw.txt
+wavfolder_band-organ-reggaebasic.txt
+wavfolder_band-organ-rockbasic.txt
+wavfolder_band-organ-thecat.txt
+wavfolder_band-organ-thethird.txt
+wavfolder_bassdrum.txt
+wavfolder_bassoon.txt
+wavfolder_basstuba.txt
+wavfolder_celloensemble.txt
+wavfolder_c-f-g_celloensemble.txt
+wavfolder_chimes.txt
+wavfolder_clarinet.txt
+wavfolder_concertgrand.txt
+wavfolder_cymbals.txt
+wavfolder_cymbals2.txt
+wavfolder_doublebassensemble.txt
+wavfolder_drums.txt
+wavfolder_englishhorn.txt
+wavfolder_flute.txt
+wavfolder_fondsquint.txt
+wavfolder_frenchoboe.txt
+wavfolder_harp.txt
+wavfolder_harpsichord.txt
+wavfolder_hornensemble.txt
+wavfolder_hornsolo.txt
+wavfolder_ir.txt
+wavfolder_malletsandbells.txt
+wavfolder_oboe.txt
+wavfolder_orchestral-bassdrum.txt
+wavfolder_orchestral-bassoon.txt
+wavfolder_orchestral-basstuba.txt
+wavfolder_orchestral-celloensemble.txt
+wavfolder_orchestral-chimes.txt
+wavfolder_orchestral-clarinet.txt
+wavfolder_orchestral-concertgrand.txt
+wavfolder_orchestral-cymbals.txt
+wavfolder_orchestral-cymbals2.txt
+wavfolder_orchestral-doublebassensemble.txt
+wavfolder_orchestral-drums.txt
+wavfolder_orchestral-englishhorn.txt
+wavfolder_orchestral-flute.txt
+wavfolder_orchestral-fondsquint.txt
+wavfolder_orchestral-frenchoboe.txt
+wavfolder_orchestral-harp.txt
+wavfolder_orchestral-harpsichord.txt
+wavfolder_orchestral-hornensemble.txt
+wavfolder_orchestral-hornsolo.txt
+wavfolder_orchestral-ir.txt
+wavfolder_orchestral-malletsandbells.txt
+wavfolder_orchestral-oboe.txt
+wavfolder_orchestral-percussion.txt
+wavfolder_orchestral-piccoloflute.txt
+wavfolder_orchestral-scharff.txt
+wavfolder_orchestral-snaredrums.txt
+wavfolder_orchestral-tambourine.txt
+wavfolder_orchestral-timpani.txt
+wavfolder_orchestral-timpani2.txt
+wavfolder_orchestral-tromboneensemble.txt
+wavfolder_orchestral-trombonesolo.txt
+wavfolder_orchestral-trumpetensemble.txt
+wavfolder_orchestral-trumpetsolo.txt
+wavfolder_orchestral-violaensemble.txt
+wavfolder_orchestral-violinensemble.txt
+wavfolder_orchestral-voixhumaine.txt
+wavfolder_orchestral-woodblocks.txt
+wavfolder_percussion.txt
+wavfolder_piccoloflute.txt
+wavfolder_scharff.txt
+wavfolder_snaredrums.txt
+wavfolder_synth-bass-700 Seq Bass Samples.txt
+wavfolder_synth-bass-700 Short Saw Samples.txt
+wavfolder_synth-bass-700 Sine Bass Samples.txt
+wavfolder_synth-bass-700 Sine Open Samples.txt
+wavfolder_synth-bass-700 Square Bass Samples.txt
+wavfolder_synth-bass-700 Sub Bass Samples.txt
+wavfolder_synth-bass-Acid Mini Bass Samples.txt
+wavfolder_synth-bass-Acid Tube Bass Samples.txt
+wavfolder_synth-bass-Addition Samples.txt
+wavfolder_synth-bass-Angry Wavetables Samples.txt
+wavfolder_synth-bass-Banzai 23 Samples.txt
+wavfolder_synth-bass-Digi Punch Bass Samples.txt
+wavfolder_synth-bass-Fudge Samples.txt
+wavfolder_synth-bass-Impact Bass 1 Samples.txt
+wavfolder_synth-bass-Impact Bass 2 Samples.txt
+wavfolder_synth-bass-Impact Bass 3 Samples.txt
+wavfolder_synth-bass-Impact Bass 4 Samples.txt
+wavfolder_synth-bass-In Your Face Bass Samples.txt
+wavfolder_synth-bass-Left Hand Samples.txt
+wavfolder_synth-bass-Loaded Tube Bass 1 Samples.txt
+wavfolder_synth-bass-Loaded Tube Bass 2 Samples.txt
+wavfolder_synth-bass-Memory Bass 1 Samples.txt
+wavfolder_synth-bass-Memory Bass 2 Samples.txt
+wavfolder_synth-bass-Memory Bass 3 Samples.txt
+wavfolder_synth-bass-Memory Bass 4 Samples.txt
+wavfolder_synth-bass-Memory Bass 5 Samples.txt
+wavfolder_synth-bass-Mini Bass 1 Samples.txt
+wavfolder_synth-bass-Mini Bass 2 Samples.txt
+wavfolder_synth-bass-Mini Bass 3 Samples.txt
+wavfolder_synth-bass-Mini Bass 4 Samples.txt
+wavfolder_synth-bass-Mini Bass 5 Samples.txt
+wavfolder_synth-bass-Mini Bass 6 Samples.txt
+wavfolder_synth-bass-Percu Bass Samples.txt
+wavfolder_synth-bass-Plastik Samples.txt
+wavfolder_synth-bass-PPG Bass Samples.txt
+wavfolder_synth-bass-Pure Pulse Samples.txt
+wavfolder_synth-bass-Reso Bass Samples.txt
+wavfolder_synth-bass-Reso Saw Bass Samples.txt
+wavfolder_synth-bass-Roady Bass Vibe Samples.txt
+wavfolder_synth-bass-Saege Bass Samples.txt
+wavfolder_synth-bass-Saturated Machine Bass Samples.txt
+wavfolder_synth-bass-Sub Bass 1 Samples.txt
+wavfolder_synth-bass-Sub Bass 2 Samples.txt
+wavfolder_synth-bass-Sub Bass 3 Samples.txt
+wavfolder_synth-bass-Sub Bass 4 Samples.txt
+wavfolder_synth-bass-Sub Bass 5 Samples.txt
+wavfolder_synth-bass-Sub Bass 6 Samples.txt
+wavfolder_synth-choir-Breatho Samples.txt
+wavfolder_synth-choir-Choirint Samples.txt
+wavfolder_synth-choir-Choral Samples.txt
+wavfolder_synth-choir-Dark Choir Samples.txt
+wavfolder_synth-choir-Electone Kinura Samples.txt
+wavfolder_synth-choir-Electone VoxHumana Samples.txt
+wavfolder_synth-choir-F100 Octaves Samples.txt
+wavfolder_synth-choir-Fairy Voice Samples.txt
+wavfolder_synth-choir-Forma Choir Samples.txt
+wavfolder_synth-choir-LAAlike Samples.txt
+wavfolder_synth-choir-Minikorg Nasal Samples.txt
+wavfolder_synth-choir-SingSang Samples.txt
+wavfolder_synth-choir-Vochor Samples.txt
+wavfolder_synth-classicwaveform-Android Samples.txt
+wavfolder_synth-classicwaveform-Curt Samples.txt
+wavfolder_synth-classicwaveform-Garp Samples.txt
+wavfolder_synth-classicwaveform-ModulaM Samples.txt
+wavfolder_synth-classicwaveform-Ober Samples.txt
+wavfolder_synth-classicwaveform-Pro Samples.txt
+wavfolder_synth-lead-Cheesy Lead Samples.txt
+wavfolder_synth-lead-Grillage Lead Samples.txt
+wavfolder_synth-lead-Melody Lead Samples.txt
+wavfolder_synth-lead-Poly Detuned Lead  Samples.txt
+wavfolder_synth-lead-Supersaw 1 Samples.txt
+wavfolder_synth-lead-Supersaw 2 Samples.txt
+wavfolder_synth-lead-Unisono Saw Samples.txt
+wavfolder_synth-mallet-Additive Piano Samples.txt
+wavfolder_synth-mallet-Asia Glass Bell Samples.txt
+wavfolder_synth-mallet-Bell Computer Samples.txt
+wavfolder_synth-mallet-Ethno Mallet Samples.txt
+wavfolder_synth-mallet-Ethno Pluck Samples.txt
+wavfolder_synth-mallet-FM Freaks 1 Samples.txt
+wavfolder_synth-mallet-FM Freaks 2 Samples.txt
+wavfolder_synth-mallet-FM Freaks 3 Samples.txt
+wavfolder_synth-mallet-FM Freaks 4 Samples.txt
+wavfolder_synth-mallet-Glassy Bell Samples.txt
+wavfolder_synth-mallet-Metabell Samples.txt
+wavfolder_synth-mallet-Phuture Bell Samples.txt
+wavfolder_synth-mallet-Shaper Bell Samples.txt
+wavfolder_synth-mallet-Verzerrte Saite Samples.txt
+wavfolder_synth-pad-A Bird Samples.txt
+wavfolder_synth-pad-Ahoi Samples.txt
+wavfolder_synth-pad-Ambibella Samples.txt
+wavfolder_synth-pad-Analogue Strings Samples.txt
+wavfolder_synth-pad-April Pan Samples.txt
+wavfolder_synth-pad-Bell Lowpass Pad Samples.txt
+wavfolder_synth-pad-Bowgart Samples.txt
+wavfolder_synth-pad-Brite Pad High Samples.txt
+wavfolder_synth-pad-Brite SyncStab Pad Samples.txt
+wavfolder_synth-pad-Chrystal Samples.txt
+wavfolder_synth-pad-Dark Pad Octave Samples.txt
+wavfolder_synth-pad-EG Pad Samples.txt
+wavfolder_synth-pad-Electone Slow Organ Samples.txt
+wavfolder_synth-pad-F100 Brilliant Samples.txt
+wavfolder_synth-pad-F100 Flutes Samples.txt
+wavfolder_synth-pad-F100 FullTone Samples.txt
+wavfolder_synth-pad-F100 Oboe Samples.txt
+wavfolder_synth-pad-F100 Resonator Samples.txt
+wavfolder_synth-pad-F100 Woodwind Samples.txt
+wavfolder_synth-pad-Fragile Samples.txt
+wavfolder_synth-pad-Fudge Samples.txt
+wavfolder_synth-pad-Green Fairy Samples.txt
+wavfolder_synth-pad-High Dark and Long Samples.txt
+wavfolder_synth-pad-High Strings Pad Samples.txt
+wavfolder_synth-pad-Huge Digitalo Samples.txt
+wavfolder_synth-pad-Low Pass Glider Samples.txt
+wavfolder_synth-pad-Lowpass Sync Pad Samples.txt
+wavfolder_synth-pad-Marco Polo Samples.txt
+wavfolder_synth-pad-Minimoog Poly #5 Samples.txt
+wavfolder_synth-pad-Minimoog Poly #6 Samples.txt
+wavfolder_synth-pad-Minimoog Poly#13 Samples.txt
+wavfolder_synth-pad-Minimoog Poly#14 Samples.txt
+wavfolder_synth-pad-Minimoog Poly#19 Samples.txt
+wavfolder_synth-pad-Modulation Pad Samples.txt
+wavfolder_synth-pad-Moog_Flute Samples.txt
+wavfolder_synth-pad-Open Spaces Samples.txt
+wavfolder_synth-pad-Orchestrator Brasstrings Samples.txt
+wavfolder_synth-pad-Orchestrator RezDecay Samples.txt
+wavfolder_synth-pad-Orchestrator Strings Samples.txt
+wavfolder_synth-pad-Orchestrator Sweep Samples.txt
+wavfolder_synth-pad-Plain Drops Samples.txt
+wavfolder_synth-pad-Polydetuned Samples.txt
+wavfolder_synth-pad-Polypop Chord Samples.txt
+wavfolder_synth-pad-Rapman Warm Strings Samples.txt
+wavfolder_synth-pad-Rasper Samples.txt
+wavfolder_synth-pad-Retro Strings 1 Samples.txt
+wavfolder_synth-pad-Retro Strings 3 Samples.txt
+wavfolder_synth-pad-Royal Samples.txt
+wavfolder_synth-pad-Sacre Coeur Samples.txt
+wavfolder_synth-pad-Sad Steam Samples.txt
+wavfolder_synth-pad-Shivers Samples.txt
+wavfolder_synth-pad-Suave Samples.txt
+wavfolder_synth-pad-Subtle Bell Samples.txt
+wavfolder_synth-pad-Summer Pad Samples.txt
+wavfolder_synth-pad-Sunset Samples.txt
+wavfolder_synth-pad-Superpathos Samples.txt
+wavfolder_synth-pad-Table Pad Samples.txt
+wavfolder_synth-pad-Trance Pad Samples.txt
+wavfolder_synth-pad-We Dance In Trance Samples.txt
+wavfolder_synth-pad-Winter Keys Samples.txt
+wavfolder_synth-pad-YC-30 FULL Samples.txt
+wavfolder_synth-sequencer-Arcaned Noise Samples.txt
+wavfolder_synth-sequencer-Calculator Samples.txt
+wavfolder_synth-sequencer-Mini Poly 1 Samples.txt
+wavfolder_synth-sequencer-Mini Poly 2 Samples.txt
+wavfolder_synth-sequencer-Snertz Samples.txt
+wavfolder_synth-synthdrums-Aerobic Kit Samples.txt
+wavfolder_synth-synthdrums-April Fools Kit Samples.txt
+wavfolder_synth-synthdrums-Crunchy Flakes Kit Samples.txt
+wavfolder_synth-synthdrums-Hype Disbelief Kit Samples.txt
+wavfolder_synth-synthdrums-Neon Force Kit Samples.txt
+wavfolder_synth-synthdrums-New Rave Kit Samples.txt
+wavfolder_synth-synthdrums-No Mirrors Kit Samples.txt
+wavfolder_synth-synthdrums-Out For Fame Kit Samples.txt
+wavfolder_synth-synthdrums-Radioactive Kit Samples.txt
+wavfolder_synth-synthdrums-Remember The Future Kit Samples.txt
+wavfolder_synth-synthdrums-Suburban Kit Samples.txt
+wavfolder_synth-synthdrums-Ultraviolet Kit Samples.txt
+wavfolder_synth-synthdrums-Up In Smoke Kit Samples.txt
+wavfolder_synth-synthdrums-YMCK Kit Samples.txt
+wavfolder_tambourine.txt
+wavfolder_timpani.txt
+wavfolder_timpani2.txt
+wavfolder_tromboneensemble.txt
+wavfolder_trombonesolo.txt
+wavfolder_trumpetensemble.txt
+wavfolder_trumpetsolo.txt
+wavfolder_urbanbeats-African Night 87bpm.txt
+wavfolder_urbanbeats-Amazing Grace 90bpm.txt
+wavfolder_urbanbeats-Anthem 72bpm.txt
+wavfolder_urbanbeats-Back Up 97bpm.txt
+wavfolder_urbanbeats-Backyard 76bpm.txt
+wavfolder_urbanbeats-Beat Em Down 91bpm.txt
+wavfolder_urbanbeats-Cash Flow 89bpm.txt
+wavfolder_urbanbeats-Champ 86bpm.txt
+wavfolder_urbanbeats-Clearly Now 79bpm.txt
+wavfolder_urbanbeats-Clipse 93bpm.txt
+wavfolder_urbanbeats-Come Around 94bpm.txt
+wavfolder_urbanbeats-Coral 91bpm.txt
+wavfolder_urbanbeats-Crooked 79bpm.txt
+wavfolder_urbanbeats-Diplomat 95bpm.txt
+wavfolder_urbanbeats-Domination 95bpm.txt
+wavfolder_urbanbeats-Duner Diver 81bpm.txt
+wavfolder_urbanbeats-Extra Credit 95bpm.txt
+wavfolder_urbanbeats-Eye Notch 94bpm.txt
+wavfolder_urbanbeats-Firebird 93bpm.txt
+wavfolder_urbanbeats-Gal Over Gun 145bpm.txt
+wavfolder_urbanbeats-Goodas 100bpm.txt
+wavfolder_urbanbeats-Green Bag 98bpm.txt
+wavfolder_urbanbeats-Hot Season 81bpm.txt
+wavfolder_urbanbeats-IR Samples.txt
+wavfolder_urbanbeats-Jewelz 80bpm.txt
+wavfolder_urbanbeats-Load Up 89bpm.txt
+wavfolder_urbanbeats-Loony Tune 145bpm.txt
+wavfolder_urbanbeats-Low Gravity 97bpm.txt
+wavfolder_urbanbeats-Luxus Love 85bpm.txt
+wavfolder_urbanbeats-Martian Technology 99bpm.txt
+wavfolder_urbanbeats-Mighty 79bpm.txt
+wavfolder_urbanbeats-Mooncircle 115bpm.txt
+wavfolder_urbanbeats-Oh No 66bpm.txt
+wavfolder_urbanbeats-On Fire 86bpm.txt
+wavfolder_urbanbeats-On The Grind 95bpm.txt
+wavfolder_urbanbeats-Orient Vacation 101bpm.txt
+wavfolder_urbanbeats-Punjabi 97bpm.txt
+wavfolder_urbanbeats-Slow Motion 74bpm.txt
+wavfolder_urbanbeats-Solid Rock 94bpm.txt
+wavfolder_urbanbeats-Soul Search 81bpm.txt
+wavfolder_urbanbeats-Stick It 94bpm.txt
+wavfolder_urbanbeats-Still Diggin 81bpm.txt
+wavfolder_urbanbeats-Synonym 97bpm.txt
+wavfolder_urbanbeats-Talk Music 95bpm.txt
+wavfolder_urbanbeats-The Magnificant 97bpm.txt
+wavfolder_urbanbeats-Thrillmatic 107bpm.txt
+wavfolder_urbanbeats-Veil 79bpm.txt
+wavfolder_urbanbeats-Venomouz 100bpm.txt
+wavfolder_urbanbeats-Wallpaper.txt
+wavfolder_urbanbeats-Warfare 84bpm.txt
+wavfolder_urbanbeats-Wasted 100bpm.txt
+wavfolder_urbanbeats-Zaber 89bpm.txt
+wavfolder_vintage_beegeesrythmmachine.txt
+wavfolder_vintage_classicwaveform-android.txt
+wavfolder_vintage_classicwaveform-curt.txt
+wavfolder_vintage_classicwaveform-garp.txt
+wavfolder_vintage_classicwaveform-modulam.txt
+wavfolder_vintage_classicwaveform-ober.txt
+wavfolder_vintage_classicwaveform-pro.txt
+wavfolder_vintage_concertmatekit.txt
+wavfolder_vintage-analogmachines-acidtubebass.txt
+wavfolder_vintage-analogmachines-catchyfilterbass.txt
+wavfolder_vintage-analogmachines-classicflutelead.txt
+wavfolder_vintage-analogmachines-dirtysawlead.txt
+wavfolder_vintage-analogmachines-innocentlead.txt
+wavfolder_vintage-analogmachines-inyourfacebass.txt
+wavfolder_vintage-analogmachines-loadedtubebass1.txt
+wavfolder_vintage-analogmachines-loadedtubebass2.txt
+wavfolder_vintage-analogmachines-melodylead.txt
+wavfolder_vintage-analogmachines-metalliclead.txt
+wavfolder_vintage-analogmachines-naivesynthlead.txt
+wavfolder_vintage-analogmachines-saturatedmachinebass.txt
+wavfolder_vintage-analogmachines-straightpad.txt
+wavfolder_vintage-analogmachines-subbass2.txt
+wavfolder_vintage-analogmachines-subbass3.txt
+wavfolder_vintage-analogmachines-subbass4.txt
+wavfolder_vintage-analogmachines-subbass5.txt
+wavfolder_vintage-analogmachines-subbass6.txt
+wavfolder_vintage-analogmachines-subpusher.txt
+wavfolder_vintage-analogmachines-vocoder.txt
+wavfolder_vintage-analogmachines-welcome1976bass.txt
+wavfolder_vintage-cs01iibass.txt
+wavfolder_vintage-digitalmachines-additivepiano.txt
+wavfolder_vintage-digitalmachines-analogstrings.txt
+wavfolder_vintage-digitalmachines-angrywavetables.txt
+wavfolder_vintage-digitalmachines-asiaglassbell.txt
+wavfolder_vintage-digitalmachines-bellabass.txt
+wavfolder_vintage-digitalmachines-choirint.txt
+wavfolder_vintage-digitalmachines-digipunchbass.txt
+wavfolder_vintage-digitalmachines-discobass.txt
+wavfolder_vintage-digitalmachines-dx7ep.txt
+wavfolder_vintage-digitalmachines-electricgrand.txt
+wavfolder_vintage-digitalmachines-ethnopluck.txt
+wavfolder_vintage-digitalmachines-formachoir.txt
+wavfolder_vintage-digitalmachines-glassybell.txt
+wavfolder_vintage-digitalmachines-jacobass.txt
+wavfolder_vintage-digitalmachines-latelyfm.txt
+wavfolder_vintage-digitalmachines-metabell.txt
+wavfolder_vintage-digitalmachines-miamidx.txt
+wavfolder_vintage-digitalmachines-modernfm.txt
+wavfolder_vintage-digitalmachines-percstabbass.txt
+wavfolder_vintage-digitalmachines-percubass.txt
+wavfolder_vintage-digitalmachines-phuturebell.txt
+wavfolder_vintage-digitalmachines-portalead.txt
+wavfolder_vintage-digitalmachines-retrostrings1.txt
+wavfolder_vintage-digitalmachines-retrostrings2.txt
+wavfolder_vintage-digitalmachines-rudebass.txt
+wavfolder_vintage-digitalmachines-shaperbell.txt
+wavfolder_vintage-digitalmachines-tablepad.txt
+wavfolder_vintage-digitalmachines-technoid.txt
+wavfolder_vintage-digitalmachines-verzerrtsaite.txt
+wavfolder_vintage-digitalmachines-wiredbass.txt
+wavfolder_vintage-digitalmachines-wurlitzfm.txt
+wavfolder_vintage-droopy-droopthedragon.txt
+wavfolder_vintage-droopy-droopyfx.txt
+wavfolder_vintage-droopy-droopyteaches.txt
+wavfolder_vintage-drummachines-808kit.txt
+wavfolder_vintage-drummachines-909kit.txt
+wavfolder_vintage-drummachines-cr78kit.txt
+wavfolder_vintage-drummachines-dmxkit.txt
+wavfolder_vintage-drummachines-drumtraxkit.txt
+wavfolder_vintage-drummachines-linndrumkit.txt
+wavfolder_vintage-electoneorgan-fastorgan.txt
+wavfolder_vintage-electoneorgan-flutesyn.txt
+wavfolder_vintage-electoneorgan-guitar.txt
+wavfolder_vintage-electoneorgan-jazzguitar.txt
+wavfolder_vintage-electoneorgan-kinurachoir.txt
+wavfolder_vintage-electoneorgan-mutetrumpet.txt
+wavfolder_vintage-electoneorgan-percverb.txt
+wavfolder_vintage-electoneorgan-sloworgan.txt
+wavfolder_vintage-electoneorgan-spaceharmonics.txt
+wavfolder_vintage-electoneorgan-spaceharpsi.txt
+wavfolder_vintage-electoneorgan-stringensemble.txt
+wavfolder_vintage-electoneorgan-strongwah.txt
+wavfolder_vintage-electoneorgan-trinidad.txt
+wavfolder_vintage-electoneorgan-vibe.txt
+wavfolder_vintage-electoneorgan-voxhumana.txt
+wavfolder_vintage-electronicpianos-cp11clavitrem.txt
+wavfolder_vintage-electronicpianos-cp11harpsi.txt
+wavfolder_vintage-electronicpianos-cp11trempiano.txt
+wavfolder_vintage-electronicpianos-ep10harpsi.txt
+wavfolder_vintage-electronicpianos-ep10piano.txt
+wavfolder_vintage-electronicpianos-ep10pianoharpsi.txt
+wavfolder_vintage-electronicpianos-ep20harpsi.txt
+wavfolder_vintage-electronicpianos-ep20piano.txt
+wavfolder_vintage-electronicpianos-ep20pianoharpsitrem.txt
+wavfolder_vintage-electronicpianos-rmiharpsiaccent.txt
+wavfolder_vintage-electronicpianos-rmilute.txt
+wavfolder_vintage-electronicpianos-rmipiano.txt
+wavfolder_vintage-electronicpianos-rmipianoharpsi.txt
+wavfolder_vintage-electronicpianos-roadybasssplit.txt
+wavfolder_vintage-electronicpianos-roadybassvibe.txt
+wavfolder_vintage-f100-brilliant.txt
+wavfolder_vintage-f100-crunchybasspedals.txt
+wavfolder_vintage-f100-fatstaccato.txt
+wavfolder_vintage-f100-flute.txt
+wavfolder_vintage-f100-fulltone.txt
+wavfolder_vintage-f100-oboe.txt
+wavfolder_vintage-f100-octaves.txt
+wavfolder_vintage-f100-resonator.txt
+wavfolder_vintage-f100-stacbrilres.txt
+wavfolder_vintage-f100-stacdeepfull.txt
+wavfolder_vintage-f100-woodwind.txt
+wavfolder_vintage-handysound.txt
+wavfolder_vintage-ir.txt
+wavfolder_vintage-memory-50sscifi.txt
+wavfolder_vintage-memory-belllowpasspad.txt
+wavfolder_vintage-memory-britepadhigh.txt
+wavfolder_vintage-memory-britesyncstabpad.txt
+wavfolder_vintage-memory-buhwang.txt
+wavfolder_vintage-memory-cozypad.txt
+wavfolder_vintage-memory-dancebass.txt
+wavfolder_vintage-memory-darkpadoctave.txt
+wavfolder_vintage-memory-flutepad.txt
+wavfolder_vintage-memory-fx.txt
+wavfolder_vintage-memory-highexpressionpad.txt
+wavfolder_vintage-memory-highstringspad.txt
+wavfolder_vintage-memory-lowpassglider.txt
+wavfolder_vintage-memory-lowpasssyncpad.txt
+wavfolder_vintage-memory-metabali.txt
+wavfolder_vintage-memory-modulationpad.txt
+wavfolder_vintage-memory-monobass.txt
+wavfolder_vintage-memory-sneakystereo.txt
+wavfolder_vintage-mini700-distortedlead.txt
+wavfolder_vintage-mini700-jitterlead.txt
+wavfolder_vintage-mini700-nasalchoir.txt
+wavfolder_vintage-mini700-nerdlead.txt
+wavfolder_vintage-mini700-plasticlead.txt
+wavfolder_vintage-mini700-rezolead.txt
+wavfolder_vintage-mini700-seqbass.txt
+wavfolder_vintage-mini700-shortsaw.txt
+wavfolder_vintage-mini700-sinebass.txt
+wavfolder_vintage-mini700-sineopen.txt
+wavfolder_vintage-mini700-squarebass.txt
+wavfolder_vintage-mini700-squarelead.txt
+wavfolder_vintage-mini700-subbass.txt
+wavfolder_vintage-mini700-tapedlead.txt
+wavfolder_vintage-mini700-tubelead.txt
+wavfolder_vintage-mini700-wawa.txt
+wavfolder_vintage-mini-acidminibass.txt
+wavfolder_vintage-mini-dirtyminibass.txt
+wavfolder_vintage-mini-dirtyminilead.txt
+wavfolder_vintage-mini-dustyminilead.txt
+wavfolder_vintage-mini-minibrassbass.txt
+wavfolder_vintage-mini-minibrasslead.txt
+wavfolder_vintage-mini-minichordlead.txt
+wavfolder_vintage-mini-minidrivenlead.txt
+wavfolder_vintage-mini-miniflute.txt
+wavfolder_vintage-mini-minifx.txt
+wavfolder_vintage-mini-minilead1.txt
+wavfolder_vintage-mini-minilead10.txt
+wavfolder_vintage-mini-minilead11.txt
+wavfolder_vintage-mini-minilead12.txt
+wavfolder_vintage-mini-minilead13.txt
+wavfolder_vintage-mini-minilead14.txt
+wavfolder_vintage-mini-minilead2.txt
+wavfolder_vintage-mini-minilead3.txt
+wavfolder_vintage-mini-minilead4.txt
+wavfolder_vintage-mini-minilead5.txt
+wavfolder_vintage-mini-minilead6.txt
+wavfolder_vintage-mini-minilead7.txt
+wavfolder_vintage-mini-minilead8.txt
+wavfolder_vintage-mini-minilead9.txt
+wavfolder_vintage-mini-minipad1.txt
+wavfolder_vintage-mini-minipad2.txt
+wavfolder_vintage-mini-noisesweeppad.txt
+wavfolder_vintage-mini-resobass.txt
+wavfolder_vintage-mini-resosawbass.txt
+wavfolder_vintage-mini-sawsourcebass.txt
+wavfolder_vintage-mini-slowmotionpad.txt
+wavfolder_vintage-mini-syncsweeppad.txt
+wavfolder_vintage-mini-tapedminilead.txt
+wavfolder_vintage-orchestrator-brasstrings.txt
+wavfolder_vintage-orchestrator-clavispace.txt
+wavfolder_vintage-orchestrator-fasttrem.txt
+wavfolder_vintage-orchestrator-momentumpad.txt
+wavfolder_vintage-orchestrator-orchestratedstrings.txt
+wavfolder_vintage-orchestrator-pianospace.txt
+wavfolder_vintage-orchestrator-rezdecay.txt
+wavfolder_vintage-orchestrator-splitperf.txt
+wavfolder_vintage-peo800.txt
+wavfolder_vintage-rapman-bandhit.txt
+wavfolder_vintage-rapman-brass.txt
+wavfolder_vintage-rapman-brass2.txt
+wavfolder_vintage-rapman-carhorn.txt
+wavfolder_vintage-rapman-emergency.txt
+wavfolder_vintage-rapman-kit.txt
+wavfolder_vintage-rapman-orchestrahit.txt
+wavfolder_vintage-rapman-piano.txt
+wavfolder_vintage-rapman-reed.txt
+wavfolder_vintage-rapman-vibraphone.txt
+wavfolder_vintage-rapman-vocoder.txt
+wavfolder_vintage-rapman-warmstrings.txt
+wavfolder_vintage-rapman-waw.txt
+wavfolder_vintage-sk1-kit.txt
+wavfolder_vintage-sk1-piano.txt
+wavfolder_vintage-sk1-voice.txt
+wavfolder_vintage-stringmelody-accordion.txt
+wavfolder_vintage-stringmelody-bassperc.txt
+wavfolder_vintage-stringmelody-basssustained.txt
+wavfolder_vintage-stringmelody-highstrings.txt
+wavfolder_vintage-stringmelody-orchestra.txt
+wavfolder_vintage-stringmelody-solofull.txt
+wavfolder_vintage-stringmelody-solotwofader.txt
+wavfolder_vintage-synth-ir.txt
+wavfolder_vintage-tronichord.txt
+wavfolder_vintage-vl1-flute.txt
+wavfolder_vintage-vl1-guitar.txt
+wavfolder_vintage-vl1-kit.txt
+wavfolder_vintage-vl1-piano.txt
+wavfolder_vintage-vl1-violin.txt
+wavfolder_vintage-vss30-banjo.txt
+wavfolder_vintage-vss30-brass.txt
+wavfolder_vintage-vss30-clarinet.txt
+wavfolder_vintage-vss30-crystal.txt
+wavfolder_vintage-vss30-galaxy.txt
+wavfolder_vintage-vss30-harpsichord.txt
+wavfolder_vintage-vss30-jazzorgan.txt
+wavfolder_vintage-vss30-piano.txt
+wavfolder_vintage-vss30-strings.txt
+wavfolder_vintage-vss30-vibes.txt
+wavfolder_vintage-yc30-fullorgan.txt
+wavfolder_vintage-yc30-marimbagames.txt
+wavfolder_vintage-yc30-marimbaspacegames.txt
+wavfolder_vintage-yc30-mellowpercussion.txt
+wavfolder_vintage-yc30-milddistortlead.txt
+wavfolder_violaensemble.txt
+wavfolder_violinensemble.txt
+wavfolder_voixhumaine.txt
+wavfolder_woodblocks.txt
+wavfolder_world-accordion.txt
+wavfolder_world-africanshakerskit.txt
+wavfolder_world-bansuri.txt
+wavfolder_world-bongokit.txt
+wavfolder_world-celesta.txt
+wavfolder_world-congakit.txt
+wavfolder_world-dafdayerehkit.txt
+wavfolder_world-darabukadunbekkit.txt
+wavfolder_world-djembekit.txt
+wavfolder_world-duduk.txt
+wavfolder_world-ewetokekit.txt
+wavfolder_world-fiddle.txt
+wavfolder_world-gongkit.txt
+wavfolder_world-highlandpipes.txt
+wavfolder_world-highwhistle.txt
+wavfolder_world-ir.txt
+wavfolder_world-irishflute.txt
+wavfolder_world-kalimba.txt
+wavfolder_world-kaval.txt
+wavfolder_world-kora.txt
+wavfolder_world-krobotobobakidikit.txt
+wavfolder_world-lowwhistle.txt
+wavfolder_world-melodeon.txt
+wavfolder_world-musicbox.txt
+wavfolder_world-nyatiti.txt
+wavfolder_world-oud.txt
+wavfolder_world-persianney.txt
+wavfolder_world-recorder.txt
+wavfolder_world-riqkit.txt
+wavfolder_world-sansa.txt
+wavfolder_world-shakuhachi.txt
+wavfolder_world-shehnai.txt
+wavfolder_world-smallgongs.txt
+wavfolder_world-steeldrums.txt
+wavfolder_world-taikokit.txt
+wavfolder_world-timbalekit.txt
+wavfolder_world-tonbaktardavulkit.txt
+wavfolder_world-tulum.txt
+wavfolder_world-tunedgongs.txt
+wavfolder_world-turkishney.txt
+wavfolder_world-uilleannpipes.txt
+wavfolder_world-zurna.txt

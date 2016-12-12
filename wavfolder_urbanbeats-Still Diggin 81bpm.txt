@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Loops\Still Diggin 81bpm Main .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Loops\Still Diggin 81bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\01 BD Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\02 BD Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\03 SD Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\04 HHC Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\05 HHO Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\06 CRS Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\07 SFX Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\08 SFX Still Diggin 81bpm.wav

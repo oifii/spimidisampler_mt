@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Loops\Dune Diver 81bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Loops\Dune Diver 81bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\01 BD Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\02 CLP Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\03 PRC Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\04 PRC Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\05 PRC Dune Diver 81bpm.wav

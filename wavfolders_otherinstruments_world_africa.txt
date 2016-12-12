@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\African Shakers Kit Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bongo Kit Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Conga Kit Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Djembe Kit Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Gong Kit Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Small Gongs Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\LHkora Vel_1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\LHkora Vel_2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\RHkora Vel_1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\RHkora Vel_2

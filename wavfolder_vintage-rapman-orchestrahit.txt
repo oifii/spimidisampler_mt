@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-B1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-B2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-B3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-D2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-F1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-F2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-G#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-G#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples\CRM-Tone09-G#3.wav

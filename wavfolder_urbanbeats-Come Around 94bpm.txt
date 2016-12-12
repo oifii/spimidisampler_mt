@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Loops\Come Around 94bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Loops\Come Around 94bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\01 BD Come Around 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\02 SD Come Around 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\03 CLP Come Around 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\04 SHK Come Around 94bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\05 SFX Come Around 94bpm.wav

@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Loops\Low Gravity 97bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Loops\Low Gravity 97bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\01 BD Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\02 CLP Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\03 SUB Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\04 SFX Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\05 SFX Low Gravity 97bpm.wav

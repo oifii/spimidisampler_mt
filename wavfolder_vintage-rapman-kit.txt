@@ -1,0 +1,28 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Clave.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Cowbell.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - FX 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - FX.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - HiHat 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - HiHat 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - HiHat.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Kick 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Kick.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 12.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Loop 9.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Orchestra Hit 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Orchestra Hit 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Orchestra Hit.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Scratch 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Scratch 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Scratch.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Kit Samples\Rapman - Snare.wav

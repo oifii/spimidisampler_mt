@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples\Big Chamber.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples\Big Hall 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples\Big Hall 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples\Big Hall 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples\Far Away.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples\Soft Room.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples\Wood Room.wav

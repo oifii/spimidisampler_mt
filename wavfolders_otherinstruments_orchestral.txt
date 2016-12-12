@@ -1,0 +1,561 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\05 Harp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Additional Percussion Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Asian Percussion Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\August Foerster Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Bass Drum Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Chimes Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\ConcertGrand Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Cymbals Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Harpsichord Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB - Voix Humaine 8' (rls) Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB GPR-Fonds+Quint (rls) Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB Pos-Scharff (Rls) Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Snare Drums Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Tambourine Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Timpani Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Wallpaper
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\Woodblocks Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_mV_sforz_fp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_mV_sforz_sfz1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_mV_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_mV_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_mV_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_perf-leg_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_pz_mV_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_pz_mV_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_pz_mV_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_trem_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_trem_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_trem_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_trem_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_trem_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_trem_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_mV_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_mV_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_mV_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_mV_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_mV_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_perf-leg_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_pz_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_pz_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_RS_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_trem_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_trem_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_trem_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_trem_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_trem_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_trem_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_0aT1-legsus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_sus-sh_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_pz_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_pz_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_pz_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_trem_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_trem_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_trem_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_trem_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_trem_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_trem_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_01_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_01_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_02_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_02_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_03_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_03_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_04_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_04_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_05_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_05_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_06_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_06_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_07_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_07_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_08_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_08_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_09_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_09_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_10_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_10_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_11_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_11_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_12_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_02leg_p\VC-8_mV_02leg_p_12_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_leg-rep_4-60
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_pz_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_pz_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_trem_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_trem_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_trem_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_trem_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_trem_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_trem_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\05 Harp\HA_ES_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\05 Harp\HA_ES_flag_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\05 Harp\HA_ES_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\05 Harp\HA_ES_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_LV_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_LV_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_LV_nA_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_mV_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_mV_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute\PFL_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_0aT1-legsus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_LV_na_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_LV_na_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_LV_na_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_01_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_01_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_02_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_02_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_03_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_03_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_04_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_04_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_05_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_05_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_06_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_06_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_07_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_07_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_08_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_08_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_09_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_09_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_10_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_10_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_11_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_11_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_12_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute\FL1_mV_02leg_p\FL1_mV_02leg_p_12_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_pA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_pA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_pA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_RS_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_sforz_3s_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_sforz_3s_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_stac_mp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe\OB_stac_mp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_pA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_pA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_pA_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_pA_sus_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_pp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\BKL_stac_pp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_pA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_pA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_pA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_pA_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_RS_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_RS_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_mp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet\KLB_stac_mp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_nA_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\FA_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_nA_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_nA_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon\KFA_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_oV_sforz_fp_4s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_oV_sforz_sfz_4s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_stac_mp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO_stac_mp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO-L_oV_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO-L_oV_nA_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO-L_oV_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo\HO-L_oV_nA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_nA_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_sforz_fp_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_sforz_sfz_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_01_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_01_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_02_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_02_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_03_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_03_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_04_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_04_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_05_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_05_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_06_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_06_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_07_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_07_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_08_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_08_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_09_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_09_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_10_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_10_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_11_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_11_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_12_do
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4\HO-4_02leg_mp\HO-4_02leg_mp_12_up
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_oV_sforz_3s_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_oV_sforz_3s_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC-L_oV_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC-L_oV_nA_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC-L_oV_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo\TrC-L_oV_nA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_nA_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\TR-3_sforz_fp_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\TR-3_sforz_sfz_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3\Tr-3_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_oV_sforz_fp_4s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_oV_sforz_sfz_4s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_stacc_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_stacc_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_stacc_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_stacc_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_stacc_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP_stacc_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP-L_oV_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP-L_oV_nA_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP-L_oV_nA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo\TP-L_oV_nA_sus_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_leg-rep_4-60
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_nA_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_sforz_fp_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_sforz_sfz_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3\PO-3_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_RS_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU-L_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU-L_nA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\KTU-L_nA_sus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_oV_sforz_fp_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_oV_sforz_sfz_3s
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_RS_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_stacc_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_stacc_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_stacc_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_stacc_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_stacc_mp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU_stacc_mp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU-L_oV_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU-L_oV_nA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba\TU-L_oV_nA_sus_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_RS
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2-L_mV_nA_sus
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2-L_mV_nA_sus\OB2-L_mV_nA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2-L_mV_nA_sus\OB2-L_mV_nA_sus_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2-L_mV_nA_sus\OB2-L_mV_nA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_RS\OB2_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_RS\OB2_RS_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_RS\OB2_RS_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_1\OB2_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_1\OB2_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_1\OB2_stac_mp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_2\OB2_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_2\OB2_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe\OB2_stac_2\OB2_stac_mp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_pA_sus_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_pA_sus_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_pA_sus_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_RS_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_RS_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_RS_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_sforz_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_stac_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_stac_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_stac_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_stac_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_stac_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn\EH_stac_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\02 Tam_60
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\BE_a-due_20Is_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1_RS_trem_Me
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_mp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_mp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_pp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_ES_pp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_RS_trem_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_RS_trem_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_RS_trem_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_RS_trem_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp-L_ME_trem_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp-L_ME_trem_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp-L_ME_trem_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp-L_ME_trem_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_f1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_f2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_ff1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_ff2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_mf1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_mf2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_p1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_p2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_pp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_pp2
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr_RS_trem
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_fff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_ppp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_RS_trem
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_trem
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-L_trem
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1_ES_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1_ES_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1_ES_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1_ES_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1_ES_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1_RS_trem
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1-L_trm
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2_ES_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2_ES_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2_ES_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2_ES_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2_ES_sfz
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2_RS_trem
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2-L_trm
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells\Glocken_HO
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells\Glocken_ME
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion\TG1_ES_di_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion\TG1_ES_di_ff
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion\TG1_ES_di_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion\TG1_ES_di_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion\TG2_ES_di_f
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion\TG2_ES_di_mp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\24 Percussion\TG2_ES_di_pp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB - Voix Humaine 8' (rls) Samples\__NI_SMPL_ADD__

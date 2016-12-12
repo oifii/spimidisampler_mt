@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Loops\Thrillmatic 107bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Loops\Thrillmatic 107bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\01 BD Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\02 SD Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\03 CLP Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\04 HHC Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\05 TOM Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\06 PRC Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\07 SFX Thrillmatic 107bpm.wav

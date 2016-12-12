@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Loops\Solid Rock 94bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Loops\Solid Rock 94bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\01 BD Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\02 CLP Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\03 RIM Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\04 SHK Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\05 PRC Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\06 SUB Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\07 SFX Solid Rock 94bpm.wav

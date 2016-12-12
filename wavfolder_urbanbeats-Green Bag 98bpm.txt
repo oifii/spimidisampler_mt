@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Loops\Green Bag 98bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Loops\Green Bag 98bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\01 BD Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\02 SD Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\03 SHK Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\04 PRC Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\05 PRC Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\06 PRC Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\07 PRC Green Bag 98bpm.wav

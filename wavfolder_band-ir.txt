@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Brit Dyna.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Brit Tube.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Dark Room.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Gym Shower.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Iso Booth.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Large Hall.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Medium Booth.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Short Plate.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Slap Room.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Tiny Ambience.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Tweed 2 Dyna.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Tweed 2 Tube.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Tweed 4 Dyna.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Tweed 4 Tube.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Warm Room.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples\Wide Room.wav

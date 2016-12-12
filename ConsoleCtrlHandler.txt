@@ -1,0 +1,49 @@
+/* Windows.h must be directly or indirectly #included here */
+
+/* The event signaled when the app should be terminated. */
+HANDLE g_hTerminateEvent = NULL;
+
+/* Handles events that would normally terminate a console application. */
+BOOL WINAPI ConsoleCtrlHandler(DWORD dwCtrlType);
+
+/* TCHAR-ized main function */
+int _tmain(int argc, _TCHAR* argv[])
+{
+    /* Auto-reset, initially non-signaled event */
+    g_hTerminateEvent = ::CreateEvent(NULL, FALSE, FALSE, NULL);
+
+    /* Add the break handler */
+    ::SetConsoleCtrlHandler(ConsoleCtrlHandler, TRUE);
+
+    /* Create and start worker threads, other initialization stuff here. */
+
+    /* Wait indefinitely for user to break the app. */
+    ::WaitForSingleObject(g_hTerminateEvent, INFINITE);
+
+    /* Gracefully cleanup the application here. */
+
+    return 0;
+}
+
+/* Called by the operating system in a separate thread to handle an app-terminating event.  */
+BOOL WINAPI ConsoleCtrlHandler(DWORD dwCtrlType)
+{
+    if (dwCtrlType == CTRL_C_EVENT ||
+        dwCtrlType == CTRL_BREAK_EVENT ||
+        dwCtrlType == CTRL_CLOSE_EVENT)
+    {
+        /* CTRL_C_EVENT - Ctrl+C was pressed */
+        /* CTRL_BREAK_EVENT - Ctrl+Break was pressed */
+        /* CTRL_CLOSE_EVENT - Console window was closed */
+
+        /* Tell the main thread to exit the app */
+        ::SetEvent(g_hTerminateEvent);
+        return TRUE;
+    }
+
+    /* Not an event handled by this function.
+     * The only events that should be able to
+     * reach this line of code are events that
+     * should only be sent to services. */
+    return FALSE;
+}

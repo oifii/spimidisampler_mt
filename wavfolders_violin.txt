@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14\VI-14_mV_sforz_fp1
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10\VA-10_mV_sforz_fp
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8\VC-8_mV_0aT1-legsus_p
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6\KB-6_leg-rep_4-60

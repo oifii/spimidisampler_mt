@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Loops\Slow Motion 74bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Loops\Slow Motion 74bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\01 BD Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\02 BD Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\03 SD Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\04 HHC Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\05 HHO Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\06 TMB Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\07 PRC Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\08 PRC Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\09 TIM Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\10 SFX Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\11 SFX Slow Motion 74bpm.wav

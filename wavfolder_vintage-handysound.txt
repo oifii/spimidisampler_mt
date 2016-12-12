@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\Dau G3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\Do C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\Do2 C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\fa F2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\fa2 F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\la A2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\la A3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\le D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\le D4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\mi E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\mi E4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\si H4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\so G3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\HandySound Samples\te H2.wav

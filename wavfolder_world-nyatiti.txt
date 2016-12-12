@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti A2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti B2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti C#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti D3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti E3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti F#2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti F#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1\Nyatiti G2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti A2 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti B2 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti C#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti D3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti E3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti F#2 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti F#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2\Nyatiti G2 Vel_2.wav

@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_a#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_A1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_d#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_D2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_g#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples\Minimoog Poly#15_G2.wav

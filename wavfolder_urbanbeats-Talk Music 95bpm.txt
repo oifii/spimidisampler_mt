@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Loops\Talk Music 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Loops\Talk Music 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\01 BD Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\02 BD Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\03 SD Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\04 HHC Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\05 HHO Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\06 PRC Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\07 PRC Talk Music 95bpm.wav

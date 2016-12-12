@@ -1,0 +1,19 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Clave.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Crash.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - HiHat.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Kick.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 11a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Loop 9.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Open HiHat.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Perc.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK1 Kit Samples\SK1 - Snare.wav

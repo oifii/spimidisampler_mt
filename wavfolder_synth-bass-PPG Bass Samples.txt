@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_036_c1.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_039_d#1.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_042_f#1.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_045_a1.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_048_c2.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_051_d#2.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_054_f#2.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_057_a2.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_060_c3.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_063_d#3.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_066_f#3.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_069_a3.WAV
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples\mQ B935_072_c4.WAV

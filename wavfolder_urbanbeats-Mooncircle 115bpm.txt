@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Loops\Mooncircle 115bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Loops\Mooncircle 115bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\01 BD Mooncircle 115bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\02 SD Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\03 CLP Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\04 HHC Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\05 HHO Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\06 CRS Mooncircle 115bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\07 PRC Mooncircle 115bpm.wav

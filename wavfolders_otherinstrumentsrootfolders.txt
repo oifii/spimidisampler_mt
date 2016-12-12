@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples

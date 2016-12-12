@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 D4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 F2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 G#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 G#3r.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 G#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 H2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 H3r.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Voice Samples\SK-1 H4r.wav

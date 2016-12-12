@@ -1,0 +1,434 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 1 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 1 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 1 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 10 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 10 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 10 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 100 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 101 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 101.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 101_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 102 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 102.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 103 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 103.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 104 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 104.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 105 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 105.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 106 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 106.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 107 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 107.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 108 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 108.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 109.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 11 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 11 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 11 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 11 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 110 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 111 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 112 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 113 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 114 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 115.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 116 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 117.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 118 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 119 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 12 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 12 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 121 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 122 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 123 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 124 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 125 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 126 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 127 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 128 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 129 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 13 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 13 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 13 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 130 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 131 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 132 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 133 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 134 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 135 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 136 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 137 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 138 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 139 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 14 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 14 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 14 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 14 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 140 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 141 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 143 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 144 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 145 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 146 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 147 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 148 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 149 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 15 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 15 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 15 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 150 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 151 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 152 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 153 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 154 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 156 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 157 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 158 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 159 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 16 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 16 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 16 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 16 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 160 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 161 L5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 17 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 17 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 17 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 17 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 18 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 18 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 18 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 18 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 19 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 19 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 19 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 19.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 2 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 2 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 2 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 2 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 20 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 20 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 20 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 20 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 20.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 21 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 21 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 21 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 21 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 21.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 22 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 22 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 22 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 22 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 22.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 23 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 23 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 23 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 23 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 23.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 24 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 24 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 24 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 24 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 24.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 25 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 25 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 25 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 25 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 25.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 25_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 26 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 26 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 26 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 26 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 26.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 27 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 27 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 27 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 27 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 27.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 28 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 28 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 28 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 28 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 28.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 29 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 29 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 29 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 29 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 29.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 3 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 3 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 3 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 3 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 30 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 30 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 30 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 30 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 30.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 31 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 31 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 31 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 31 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 31.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 32 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 32 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 32 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 32 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 32.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 33 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 33 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 33 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 33 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 33.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 34 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 34 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 34 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 34 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 34.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 35 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 35 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 35 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 35 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 35.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 35_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 36 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 36 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 36 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 36.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 37 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 37 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 37 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 37 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 37.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 37_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 38 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 38 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 38 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 38 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 38.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 38_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 39 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 39 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 39 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 39 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 39.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 4 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 4 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 4 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 40 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 40 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 40 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 40.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 41 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 41 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 41 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 41 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 41.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 42 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 42 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 42 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 42 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 42.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 43 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 43 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 43 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 43 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 43.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 44 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 44 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 44 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 44.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 44_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 45 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 45 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 45 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 45.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 46 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 46 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 46 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 46.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 47 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 47.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 48 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 48.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 49 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 49.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 5 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 5 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 5 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 5 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 50 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 50.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 51 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 51.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 52 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 52.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 53 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 53.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 54 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 54 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 54.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 55 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 55.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 56 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 56.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 57 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 57.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 58.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 58_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 59 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 59.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 6 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 6 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 6 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 60 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 60.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 61 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 61.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 62.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 63 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 63.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 63_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 64.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 64_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 65 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 65.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 65_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 66.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 66_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 67 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 67.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 68 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 68.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 68_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 69 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 69.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 7 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 7 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 7 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 7 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 70.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 70_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 71 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 71.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 72 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 72.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 72_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 73.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 73_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 74 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 74.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 74_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 75 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 76 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 76.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 77 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 77.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 78 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 78.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 79.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 79_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 8 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 8 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 8 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 8 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 80 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 80.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 80_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 81 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 81.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 82 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 82.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 83.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 83_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 84 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 84.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 85 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 85.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 86 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 86.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 87 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 87.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 88 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 88.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 89 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 89.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 9 L1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 9 L2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 9 L3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 9 off.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 9.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 90 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 90.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 91 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 91.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 92 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 92.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 93 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 93.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 94 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 94.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 95 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 95.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 96.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 96_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 97 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 97.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 98.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 99 L4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound 99.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L619.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L620.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L621.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L622.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L623.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L624.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L625.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L626.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L627.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L628.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L629.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L630.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L631.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L632.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L633.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L634.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L635.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L636.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L637.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L638.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L639.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L640.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L641.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L642.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L643.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L644.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L645.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L646.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L647.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L648.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L649.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L650.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L651.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L652.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L653.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L654.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L655.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L656.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L657.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L658.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L659.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L660.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L661.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L662.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L663.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L664.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L665.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples\Sound L666.wav

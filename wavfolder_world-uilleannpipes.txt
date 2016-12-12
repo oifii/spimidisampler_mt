@@ -1,0 +1,50 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter A3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter A4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter B3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter B4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter C#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter C5 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter D3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter D4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter D5 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter E3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter E4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter F#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter F#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter G3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\UPchanter G4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter A3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter A4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter B3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter B4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter C#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter C5 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter D4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter D5 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter F#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter F#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter G3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\UPchanter G4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter A3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter A4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter B3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter C#4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter D3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter D4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter E3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter E4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter F#3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter F#4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter G3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\UPchanter G4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPdrones D Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator A2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator A3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator B2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator B3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator C3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator C4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator D3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator F#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator G2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\UPregulator G3 Vel_1.wav

@@ -1,0 +1,23 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD BD 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD CAB.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD CB.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD CP.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD CRA.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD HC 5_H3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD HH 1-S.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD LC 3_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD LC 4_AS4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD LC 6_DIS4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD OH 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD OH 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD RIDE.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD SD 1_E2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD SD 4_A2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD SIDE.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD TB 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD TOM HI 5_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD TOM HI 6_DIS4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD TOM LO 4_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD TOM LO 5_GIS3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD TOM MID 3_GIS2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\Linndrum Kit Samples\LD TOM MID 8_G4.wav

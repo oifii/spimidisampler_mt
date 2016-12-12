@@ -1,0 +1,39 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.12.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.13.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.15.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.18.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.22.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.36.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.37.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.44.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.45.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.49.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.51.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD med.55.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.16.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.24.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.25.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.27.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.28.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.31.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.36.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.37.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_hrd.41.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.12.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.14.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.18.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.20.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.24.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.28.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.29.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.30.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.31.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.32.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.35.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.36.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.40.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.41.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.42.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.44.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples\NIGM_SD_sft.45.wav

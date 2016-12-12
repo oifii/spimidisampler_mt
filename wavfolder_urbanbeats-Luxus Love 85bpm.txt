@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Loops\Luxus Love 85bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Loops\Luxus Love 85bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\01 BD Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\02 SD Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\03 CLP Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\04 CLP Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\05 CLP Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\06 HHC Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\07 HHC Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\08 CRS Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\09 TOM Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\10 WDC Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\11 CYM Luxus Love 85bpm.wav

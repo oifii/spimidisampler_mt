@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Loops\Loony Tune 145bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Loops\Loony Tune 145bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\01 BD Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\02 SD Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\03 CLP Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\04 HHC Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\05 HHO Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\06 CYM Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\07 SHK Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\08 TOM Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\09 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\10 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\11 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\12 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\13 SFX Loony Tune 145bpm.wav

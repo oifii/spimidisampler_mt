@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Loops\On Fire 86bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Loops\On Fire 86bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\01 BD On Fire 86bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\02 CLP On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\03 HHM On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\04 PRC On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\05 PRC On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\06 SFX On Fire 86bpm.wav

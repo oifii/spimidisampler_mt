@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Bridge Bass Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Bridge+Neck Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Neck Bass Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Upright Bass Samples

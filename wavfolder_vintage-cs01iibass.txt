@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 1 Samples\Sound 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 2 Samples\Sound 1a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 2 Samples\Sound 1b.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 3 Samples\Sound 2a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 3 Samples\Sound 2b.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 4 Samples\Sound 3a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 4 Samples\Sound 3b.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 5 Samples\Sound 6a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 5 Samples\Sound 6b.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 6 Samples\Sound 4a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 6 Samples\Sound 4b.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 6 Samples\Sound 4c.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 6 Samples\Sound 4d.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 7 Samples\Sound 5a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\CS-01 Samples\CS-01 II BASS 7 Samples\Sound 5b.wav

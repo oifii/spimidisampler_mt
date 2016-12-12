@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Loops\The Magnificant 97bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Loops\The Magnificant 97bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\01 SD The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\02 HHC The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\03 SHK The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\04 PRC The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\05 PRC The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\06 PRC The Magnificant 97bpm.wav

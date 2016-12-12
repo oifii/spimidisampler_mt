@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Disable.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Far.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Medium.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Near.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Disable.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Far.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Medium.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Near.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Disable.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Far.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Medium.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Near.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Disable.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Far.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Medium.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Near.wav

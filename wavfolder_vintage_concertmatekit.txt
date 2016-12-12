@@ -1,0 +1,23 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Clave.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - HiHat.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Kick + Crash.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Kick + HiHat.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Kick.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 12.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 12a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 6a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 7a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 8a.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Loop 9.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Snare + Crash.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Concertmate Kit Samples\Concertmate - Snare.wav

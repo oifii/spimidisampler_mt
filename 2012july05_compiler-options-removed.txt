@@ -1,0 +1,4 @@
+ /Zm1000 /MT /c 
+
+
+libcmt.lib

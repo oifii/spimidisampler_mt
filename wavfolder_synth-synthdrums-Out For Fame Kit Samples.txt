@@ -1,0 +1,29 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\snapper.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_a shaka_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_arthat_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_bngsnr_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_clap_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_clap130_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_dhat1_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_dhat2_st_v02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_echohat_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_elecsnr_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_fkick_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_hardrim_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_hat_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_jsnare_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_jsnare_m_v02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_Mhat_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_mykick16_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_mympchat_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_mympckick_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_nicecrash(st)_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_rcsnr_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_rcsnr_st_v02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_RIDE_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_RIDE_st_v02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_shakernoise_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_shtop_m_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_smplkick(st)_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_snaps 2_st_v01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Out For Fame Kit Samples\Swag1_tcow_st_v01.wav

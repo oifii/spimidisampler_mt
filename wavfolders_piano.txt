@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\Bechstein\Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\Bechstein\Samples II
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\Boesendorfer\Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\Boesendorfer\Samples II
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\ConcertGrand\Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\ConcertGrand\Samples II
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\Steingraeber\Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Akoustik Piano Library\Samples\Steingraeber\Samples II
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\2 - Acoustic Pianos Samples\Boesendorfer Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\2 - Acoustic Pianos Samples\Steingraeber Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\3 - Electric Pianos Samples\Fender MK2 Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\3 - Electric Pianos Samples\Hohner E7 Samples
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\3 - Electric Pianos Samples\Wurlitzer A200 Samples

@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 BD.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 C.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 CB.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 CY.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 GUI1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 GUI6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 HB.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 HH.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 LB.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 LC.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 M.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 MET 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 MET 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 RS.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 SD.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\CR-78 Kit Samples\SO7T8 TAM.wav

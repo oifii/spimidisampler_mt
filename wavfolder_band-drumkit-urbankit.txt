@@ -1,0 +1,25 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\CH.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\OH00.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\OH10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Hat1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Hat2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Hat3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick1#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick17.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick2#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick3#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick6#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Kick8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare1#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare14.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare18.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\SC Snare7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples\Shaker 11B.wav

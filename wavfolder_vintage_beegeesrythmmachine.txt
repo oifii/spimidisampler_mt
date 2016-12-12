@@ -1,0 +1,19 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Rhythm Kit Samples\BeeGees - HiHat.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Rhythm Kit Samples\BeeGees - Kick.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Rhythm Kit Samples\BeeGees - Loop 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Rhythm Kit Samples\BeeGees - Loop 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Rhythm Kit Samples\BeeGees - Loop 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Rhythm Kit Samples\BeeGees - Snare.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Rhythm Kit Samples\BeeGees - Tom.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares A2 .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares A3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares D#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares D#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares D5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares E5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares F#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares F#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\BeeGees Rhythmmachine Samples\BeeGees Samples\Squares H5.wav

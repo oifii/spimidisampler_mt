@@ -1,0 +1,5 @@
+wavfolder_band-acousticpiano_steingraeber.txt
+wavfolder_band-bass-bridgeandneck.txt
+wavfolder_band-bass-bridgebass.txt
+wavfolder_band-bass-neckbass.txt
+wavfolder_band-bass-uprightbass.txt

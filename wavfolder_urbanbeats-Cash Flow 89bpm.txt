@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Loops\Cash Flow 89bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Loops\Cash Flow 89bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\01 BD Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\02 BD Cash Flow 89bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\03 CLP Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\04 CLP Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\05 SHK Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\06 SFX Cash Flow 89bpm.wav

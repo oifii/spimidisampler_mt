@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Loops\Hot Season 81bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Loops\Hot Season 81bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\01 BD Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\02 SD Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\03 CLP Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\04 HHC Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\05 HHC Hot Season 81bpm.wav

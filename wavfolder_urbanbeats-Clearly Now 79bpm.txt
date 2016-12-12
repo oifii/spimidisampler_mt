@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Loops\Clearly Now 79bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Loops\Clearly Now 79bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\01 BD Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\02 SD Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\03 CLP Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\04 HHC Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\05 SHK Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\06 WDC Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\07 SFX Clearly Now 79bpm.wav

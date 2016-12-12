@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Loops\On The Grind 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Loops\On The Grind 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\01 BD On The Grind 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\02 BD On The Grind 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\03 CLP On The Grind 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\04 HHC On The Grind 95bpm .wav

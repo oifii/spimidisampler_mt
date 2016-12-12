@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-B1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-B2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-B3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-D2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-F1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-F2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-G#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-G#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples\CRM-Tone05-G#3.wav

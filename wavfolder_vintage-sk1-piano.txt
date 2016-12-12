@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano A.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano D#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano F#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano F#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\SK-1 Samples\SK-1 Piano Samples\SK-1 piano F#5.wav

@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter A#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter A#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter C4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter D#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter D4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter F4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter G#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter G#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\HPchanter G4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPdrones\HPdrones.wav

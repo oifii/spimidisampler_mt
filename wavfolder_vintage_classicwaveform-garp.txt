@@ -1,0 +1,65 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc1 Samples\ARP2600_Saw_C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc1 Samples\ARP2600_Saw_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc1 Samples\ARP2600_Saw_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc1 Samples\ARP2600_Saw_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc1 Samples\ARP2600_Saw_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc1 Samples\ARP2600_Saw_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc2 Samples\ARP2600_2osc_Saw_C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc2 Samples\ARP2600_2osc_Saw_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc2 Samples\ARP2600_2osc_Saw_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc2 Samples\ARP2600_2osc_Saw_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc2 Samples\ARP2600_2osc_Saw_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SAW Osc2 Samples\ARP2600_2osc_Saw_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SIN Osc1 Samples\ARP2600_Sine_C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SIN Osc1 Samples\ARP2600_Sine_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SIN Osc1 Samples\ARP2600_Sine_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SIN Osc1 Samples\ARP2600_Sine_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SIN Osc1 Samples\ARP2600_Sine_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SIN Osc1 Samples\ARP2600_Sine_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 25-50 Osc2 Samples\ARP2600_2osc_25-50_Pulse#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 25-50 Osc2 Samples\ARP2600_2osc_25-50_Pulse#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 25-50 Osc2 Samples\ARP2600_2osc_25-50_Pulse#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 25-50 Osc2 Samples\ARP2600_2osc_25-50_Pulse#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 25-50 Osc2 Samples\ARP2600_2osc_25-50_Pulse..7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 25-50 Osc2 Samples\ARP2600_2osc_25-50_Pulse..9.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc1 Samples\ARP2600_50-50_Pulse_C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc1 Samples\ARP2600_50-50_Pulse_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc1 Samples\ARP2600_50-50_Pulse_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc1 Samples\ARP2600_50-50_Pulse_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc1 Samples\ARP2600_50-50_Pulse_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc1 Samples\ARP2600_50-50_Pulse_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc2 Samples\ARP2600_2osc_50-50_Pulse#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc2 Samples\ARP2600_2osc_50-50_Pulse#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc2 Samples\ARP2600_2osc_50-50_Pulse#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc2 Samples\ARP2600_2osc_50-50_Pulse#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc2 Samples\ARP2600_2osc_50-50_Pulse..7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 50-50 Osc2 Samples\ARP2600_2osc_50-50_Pulse..9.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 70-30 Osc1 Samples\ARP2600_30-70_Pulse_C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 70-30 Osc1 Samples\ARP2600_30-70_Pulse_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 70-30 Osc1 Samples\ARP2600_30-70_Pulse_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 70-30 Osc1 Samples\ARP2600_30-70_Pulse_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 70-30 Osc1 Samples\ARP2600_30-70_Pulse_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 70-30 Osc1 Samples\ARP2600_30-70_Pulse_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 80-20 Osc1 Samples\ARP2600_80-20_Pulse_C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 80-20 Osc1 Samples\ARP2600_80-20_Pulse_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 80-20 Osc1 Samples\ARP2600_80-20_Pulse_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 80-20 Osc1 Samples\ARP2600_80-20_Pulse_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 80-20 Osc1 Samples\ARP2600_80-20_Pulse_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR 80-20 Osc1 Samples\ARP2600_80-20_Pulse_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR PWM Osc2 Samples\ARP2600_2osc_50-50_PWM.C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR PWM Osc2 Samples\ARP2600_2osc_50-50_PWM.C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR PWM Osc2 Samples\ARP2600_2osc_50-50_PWM.C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR PWM Osc2 Samples\ARP2600_2osc_50-50_PWM.C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR PWM Osc2 Samples\ARP2600_2osc_50-50_PWM.C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp SQR PWM Osc2 Samples\ARP2600_2osc_50-50_PWM.C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc1 Samples\ARP2600_Triangle_C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc1 Samples\ARP2600_Triangle_C2wav.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc1 Samples\ARP2600_Triangle_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc1 Samples\ARP2600_Triangle_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc1 Samples\ARP2600_Triangle_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc2 Samples\ARP2600_2osc_Triangle.C1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc2 Samples\ARP2600_2osc_Triangle.C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc2 Samples\ARP2600_2osc_Triangle.C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc2 Samples\ARP2600_2osc_Triangle.C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc2 Samples\ARP2600_2osc_Triangle.C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Classic Waveform Samples\Garp Samples\Garp TRI Osc2 Samples\ARP2600_2osc_Triangle.C6.wav

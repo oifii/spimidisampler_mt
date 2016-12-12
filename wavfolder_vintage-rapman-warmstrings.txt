@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-B1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-B2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-B3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-D2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-F1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-F2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-G#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-G#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples\CRM-Tone07-G#3.wav

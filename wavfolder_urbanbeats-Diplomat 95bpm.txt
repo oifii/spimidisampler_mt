@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Loops\Diplomat 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Loops\Diplomat 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\01 BD Diplomat 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\02 CLP Diplomat 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\03 PRC Diplomat 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\04 WDC Diplomat 95bpm.wav

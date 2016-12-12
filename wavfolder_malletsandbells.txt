@@ -1,0 +1,458 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_A3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_B3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_B4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_C#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_C#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_C#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_C#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_D8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_E8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_F8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_G3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f\CE_ES_f_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_A3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_B3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_B4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_C#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_C#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_C#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_C#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_D8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_E8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_F8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_G3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf\CE_ES_mf_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_A3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_B3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_B4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_C#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_C#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_C#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_C#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_D8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_E8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_F8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_G3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p\CE_ES_p_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_A3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_B3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_B4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_C#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_C#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_C#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_C#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_D8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_E8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_F8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_G3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp\CE_ES_pp_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells\Glocken_HO\Glocken_HO_C5_f.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells\Glocken_HO\Glocken_HO_G4_f.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells\Glocken_ME\Glocken_ME_C5_f.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells\Glocken_ME\Glocken_ME_G4_f.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_A#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_C#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_C8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_D7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_D8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_E7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_F#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_G#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f\Gsp_ME_f_L-sus_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_A#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_C#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_C8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_D7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_D8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_E7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_F#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_G#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf\Gsp_ME_mf_L-sus_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_A#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_C#8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_C8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_D7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_D8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_E7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_F#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_G#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p\Gsp_ME_p_L-sus_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_A#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_A#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_A#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_C#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_D#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_D2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_D4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_D5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_E2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_E4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_E5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_F#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_F#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_F#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_G#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_G#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_G#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_f_li_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_A#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_A#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_A#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_C#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_C2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_C4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_D#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_D2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_D3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_D4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_D5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_E2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_E4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_E5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_F#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_F#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_F#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_G#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_G#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_G#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples\MA_ES_A-So_mp_li_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_B4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_C#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_C8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_D5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_D7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_E5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_E7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_F#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_F#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_L_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L\Xyl_HO_f_R_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_B4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_B7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_C#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_C8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_D5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_D7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_E5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_E7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L\Xyl_HO_mf_L_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_A7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_B4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_B5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_B6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_C#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_C#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_C#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_C5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_C6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_C7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_C8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_D#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_D#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_D#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_D5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_D6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_D7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_E5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_E6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_E7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_F7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G#7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_L_G7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L\Xyl_HO_p_R_B7.wav

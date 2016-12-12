@@ -1,0 +1,20 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX BD 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX BD 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX CH.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX CP.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX CRA.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX OH.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX RD 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX RS.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX SD 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX SD 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX SD 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX SHA 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX SHA 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX TAM.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX TOM 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX TOM 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX TOM 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX TOM 4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX TOM 5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\DMX Kit Samples\ODnX TOM 6.wav

@@ -1,0 +1,78 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-028-e0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-031-g0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-034-a#0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-037-c#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-040-e1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-043-g1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-046-a#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-049-c#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-052-e2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-055-g2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-058-a#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-061-c#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-064-e3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-067-g3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-070-a#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-073-c#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-076-e4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-079-g4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-082-a#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-085-c#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-088-e5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-091-g5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-094-a#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-097-c#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-100-e6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW000-103-g6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-028-e0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-031-g0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-034-a#0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-037-c#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-040-e1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-043-g1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-046-a#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-049-c#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-052-e2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-055-g2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-058-a#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-061-c#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-064-e3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-067-g3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-070-a#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-073-c#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-076-e4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-079-g4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-082-a#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-085-c#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-088-e5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-091-g5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-094-a#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-097-c#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-100-e6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice MW070-103-g6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-028-e0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-031-g0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-034-a#0.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-037-c#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-040-e1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-043-g1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-046-a#1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-049-c#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-052-e2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-055-g2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-058-a#2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-061-c#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-064-e3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-067-g3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-070-a#3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-073-c#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-076-e4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-079-g4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-082-a#4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-085-c#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-088-e5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-091-g5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-094-a#5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-097-c#6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-100-e6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples\Fairy Voice-103-g6.wav

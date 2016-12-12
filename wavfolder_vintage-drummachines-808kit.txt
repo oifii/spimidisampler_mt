@@ -1,0 +1,25 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW BD 1_FIS1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW BD 6_FIS1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW BD 7_DIS4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW CB.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW CH.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW CL.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW CP.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW CY 1_FIS5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW CY 2_FIS5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW HC 2_G4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW HT 1_H2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW HT 2_C3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW LC 1_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW LT 1_E2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW LT 2_F2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW MA.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW MC 1_H3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW MT 1_E3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW MT 2_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW OH 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW OH 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW RS.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW SD 1_A1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW SD 11_F3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Drum Machines Samples\808 Kit Samples\AOW SD 8_E3.wav

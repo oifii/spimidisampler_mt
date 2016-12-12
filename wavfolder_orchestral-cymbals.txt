@@ -1,0 +1,38 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\02 Tam_60\Tam_Me_f_60.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\02 Tam_60\Tam_Me_p_60.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\02 Tam_60\Tam_SoFi_f_60.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\02 Tam_60\Tam_SoFi_ff_60.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\02 Tam_60\Tam_SoFi_mf_60.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\02 Tam_60\Tam_SoFi_pp_60.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100\Tam_Me_f_100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100\Tam_Me_p_100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100\Tam_Me2_p_100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100\Tam_SoFi_f_100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100\Tam_SoFi_ff_100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100\Tam_SoFi_mf_100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\04 Tam_100\Tam_SoFi_pp_100.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130\Tam_Me_f_130.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130\Tam_Me_p_130.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130\Tam_Me2_p_130.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130\Tam_SoFi_f_130.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130\Tam_SoFi_ff_130.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130\Tam_SoFi_mf_130.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\06 Tam_130\Tam_SoFi_pp_130.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\BE_a-due_20Is_f\BE_a-due_20Is_f.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\BE_a-due_20Is_f\BE_a-due_20Is_ff.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\BE_a-due_20Is_f\BE_a-due_20Is_fff.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\BE_a-due_20Is_f\BE_a-due_20Is_mf.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\BE_a-due_20Is_f\BE_a-due_20Is_mp.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\BE_a-due_20Is_f\BE_a-due_20Is_p.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_ff_8s.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_ff_ES1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_ff_ES2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_mf_8s.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_mf_ES1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_mf_ES2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_p_8s.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_p_ES1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1-L_trem\HB1_trem_Me_p_ES2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1_RS_trem_Me\HB1_RS_trem_Me_ff.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1_RS_trem_Me\HB1_RS_trem_Me_mf.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\20 Cymbals\HB1_RS_trem_Me\HB1_RS_trem_Me_p.wav

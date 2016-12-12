@@ -1,0 +1,142 @@
+the following text has been generated with application
+audio_spi\spidevicesselect.exe
+
+
+PortAudio version number = 1899
+PortAudio version text = 'PortAudio V19-devel (built Jul  4 2012 14:31:49)'
+Number of devices = 13
+--------------------------------------- device #0
+Name                        = Microsoft Sound Mapper - Input
+Host API                    = MME
+Max inputs = 2, Max outputs = 0
+Default low input latency   =   0.0900
+Default low output latency  =   0.0900
+Default high input latency  =   0.1800
+Default high output latency =   0.1800
+--------------------------------------- device #1
+[ Default Input ]
+Name                        = Wave (2- E-MU E-DSP Audio Proce
+Host API                    = MME
+Max inputs = 2, Max outputs = 0
+Default low input latency   =   0.0900
+Default low output latency  =   0.0900
+Default high input latency  =   0.1800
+Default high output latency =   0.1800
+--------------------------------------- device #2
+Name                        = Microsoft Sound Mapper - Output
+Host API                    = MME
+Max inputs = 0, Max outputs = 2
+Default low input latency   =   0.0900
+Default low output latency  =   0.0900
+Default high input latency  =   0.1800
+Default high output latency =   0.1800
+--------------------------------------- device #3
+[ Default Output ]
+Name                        = Speakers (2- E-MU E-DSP Audio P
+Host API                    = MME
+Max inputs = 0, Max outputs = 8
+Default low input latency   =   0.0900
+Default low output latency  =   0.0900
+Default high input latency  =   0.1800
+Default high output latency =   0.1800
+--------------------------------------- device #4
+[ Default Windows DirectSound Input ]
+Name                        = Primary Sound Capture Driver
+Host API                    = Windows DirectSound
+Max inputs = 2, Max outputs = 0
+Default low input latency   =   0.1200
+Default low output latency  =   0.0000
+Default high input latency  =   0.2400
+Default high output latency =   0.0000
+--------------------------------------- device #5
+Name                        = Wave (2- E-MU E-DSP Audio Processor (WDM))
+Host API                    = Windows DirectSound
+Max inputs = 2, Max outputs = 0
+Default low input latency   =   0.1200
+Default low output latency  =   0.0000
+Default high input latency  =   0.2400
+Default high output latency =   0.0000
+--------------------------------------- device #6
+[ Default Windows DirectSound Output ]
+Name                        = Primary Sound Driver
+Host API                    = Windows DirectSound
+Max inputs = 0, Max outputs = 2
+Default low input latency   =   0.0000
+Default low output latency  =   0.1200
+Default high input latency  =   0.0000
+Default high output latency =   0.2400
+--------------------------------------- device #7
+Name                        = Speakers (2- E-MU E-DSP Audio Processor (WDM))
+Host API                    = Windows DirectSound
+Max inputs = 0, Max outputs = 8
+Default low input latency   =   0.0000
+Default low output latency  =   0.1200
+Default high input latency  =   0.0000
+Default high output latency =   0.2400
+--------------------------------------- device #8
+[ Default ASIO Input, Default ASIO Output ]
+Name                        = ASIO4ALL v2
+Host API                    = ASIO
+Max inputs = 2, Max outputs = 2
+Default low input latency   =   0.0058
+Default low output latency  =   0.0058
+Default high input latency  =   0.0174
+Default high output latency =   0.0174
+ASIO minimum buffer size    = 64
+ASIO maximum buffer size    = 2048
+ASIO preferred buffer size  = 256
+ASIO buffer granularity     = 8
+--------------------------------------- device #9
+Name                        = E-MU ASIO
+Host API                    = ASIO
+Max inputs = 10, Max outputs = 10
+Default low input latency   =   0.0499
+Default low output latency  =   0.0499
+Default high input latency  =   0.1497
+Default high output latency =   0.1497
+ASIO minimum buffer size    = 88
+ASIO maximum buffer size    = 32768
+ASIO preferred buffer size  = 2200
+ASIO buffer granularity     = 8
+--------------------------------------- device #10
+[ Default Windows WASAPI Output ]
+Name                        = Speakers (2- E-MU E-DSP Audio Processor (WDM))
+Host API                    = Windows WASAPI
+Max inputs = 0, Max outputs = 2
+Default low input latency   =   0.0000
+Default low output latency  =   0.0030
+Default high input latency  =   0.0000
+Default high output latency =   0.0100
+--------------------------------------- device #11
+[ Default Windows WASAPI Input ]
+Name                        = Wave (2- E-MU E-DSP Audio Processor (WDM))
+Host API                    = Windows WASAPI
+Max inputs = 2, Max outputs = 0
+Default low input latency   =   0.0030
+Default low output latency  =   0.0000
+Default high input latency  =   0.0100
+Default high output latency =   0.0000
+--------------------------------------- device #12
+[ Default Windows WDM-KS Input, Default Windows WDM-KS Output ]
+Name                        = E-DSP Wave [FFC0]
+Host API                    = Windows WDM-KS
+Max inputs = 2, Max outputs = 8
+Default low input latency   =   0.0107
+Default low output latency  =   0.0107
+Default high input latency  =   0.0853
+Default high output latency =   0.0853
+----------------------------------------------
+
+ASIO4ALL v2 maps to 8
+E-DSP Wave [FFC0] maps to 12
+E-MU ASIO maps to 9
+Microsoft Sound Mapper - Input maps to 0
+Microsoft Sound Mapper - Output maps to 2
+Primary Sound Capture Driver maps to 4
+Primary Sound Driver maps to 6
+Speakers (2- E-MU E-DSP Audio P maps to 3
+Speakers (2- E-MU E-DSP Audio Processor (WDM)) maps to 7
+Wave (2- E-MU E-DSP Audio Proce maps to 1
+Wave (2- E-MU E-DSP Audio Processor (WDM)) maps to 5
+TerminateHostApis in
+TerminateHostApis out

@@ -1,0 +1,87 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 03.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 04.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 05.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 06.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 07.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 08.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 09.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers\Neyfinger 11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey A#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey B2 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey B3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey B4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey C#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey C#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey C#5 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey C5 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey D#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey D#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey D#5 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey E3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey E4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey F#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey F#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey F3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey F4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey G#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\PersianNey G#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey A#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey B2 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey B3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey B4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey C#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey C#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey C#5 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey C5 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey D#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey D#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey D#5 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey E3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey E4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey F#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey F#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey F3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey F4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey G#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\PersianNey G#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey A#4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey B2 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey B3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey B4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey C#3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey C#4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey C#5 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey C5 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey D#3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey D#4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey D#5 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey E3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey E4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey F#3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey F#4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey F3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey F4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey G#3 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\PersianNey G#4 Vel_3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey A#4 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey B2 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey B3 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey B4 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey C#3 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey C#4 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey C#5 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey C5 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey D#3 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey D#4 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey D#5 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey E3 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey E4 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey F#3 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey F#4 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey F3 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey F4 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey G#3 Vel_4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\PersianNey G#4 Vel_4.wav

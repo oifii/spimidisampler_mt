@@ -1,0 +1,25 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc- Aeon_bd.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_bd01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_bd02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_bd04.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_bd05.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_bd06.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_cl_hh02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_clav.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_cold_cl_hh02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_lunar_sd.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_lunarnights_bd.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_maraca01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_maraca02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_mutha_cp.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_rough_ride01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_rough_ride02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_rough_shk.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_sd01.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_sd02.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_sd03.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_sd04.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_spaceshaker.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_titan_bd.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\dc_trienv_sd.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\April Fools Kit Samples\ttx.wav

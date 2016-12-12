@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Loops\Gal Over Gun 145bpm Main .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Loops\Gal Over Gun 145bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\01 BD Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\02 SD Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\03 CLP Gal Over Gun 145bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\04 SHK Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\05 PRC Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\06 SFX Gal Over Gun 145bpm.wav

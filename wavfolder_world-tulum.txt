@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1\Tulum A#3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1\Tulum A3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1\Tulum C4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1\Tulum D#4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1\Tulum D4 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1\Tulum G3 Vel_1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2\Tulum A#3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2\Tulum A3 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2\Tulum C4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2\Tulum D#4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2\Tulum D4 Vel_2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2\Tulum G3 Vel_2.wav

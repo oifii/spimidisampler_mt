@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Loops\Eye Notch 94bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Loops\Eye Notch 94bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\01 BD Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\02 BD Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\03 SD Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\04 CLP Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\05 HHC Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\06 HHC Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\07 HHO Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\08 WDC Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\09 RID Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\10 TOM Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\11 TOM Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\12 TOM Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\13 SFX Eye Notch 94bpm.wav

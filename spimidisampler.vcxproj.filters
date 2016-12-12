@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3aa59bdb-95df-4c2b-8bac-ef1fca4cb78f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="spimidisampler.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_instrument.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_instrumentset.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_midievent.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_midieventset.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_midiutility.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_partition.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_partitionset.cpp" />
+    <ClCompile Include="..\spiwavset\spiws_WavSet.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="..\spiwavset\spiws_instrument.h" />
+    <ClInclude Include="..\spiwavset\spiws_instrumentset.h" />
+    <ClInclude Include="..\spiwavset\spiws_midievent.h" />
+    <ClInclude Include="..\spiwavset\spiws_midieventset.h" />
+    <ClInclude Include="..\spiwavset\spiws_midiutility.h" />
+    <ClInclude Include="..\spiwavset\spiws_partition.h" />
+    <ClInclude Include="..\spiwavset\spiws_partitionset.h" />
+    <ClInclude Include="..\spiwavset\spiws_WavSet.h" />
+  </ItemGroup>
+</Project>

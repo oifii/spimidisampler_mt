@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Loops\Martian Technology 99bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Loops\Martian Technology 99bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\01 BD Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\02 SD Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\03 SD Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\04 CLP Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\05 PRC Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\06 PRC Martian Technology 99bpm.wav

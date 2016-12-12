@@ -1,0 +1,24 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\chirp 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\chirp 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\chirp 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\clap st 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\click 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\click st.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\dropd open trngl_R.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\hat 2.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\hat 6.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\kick 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\kick 10.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\kick 11.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\kick 3.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\kick 4.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\kick 8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\kick 9.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\rim 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\snap st 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\snare 1.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\snare 5.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\snare 7.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\snare 8.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\snare st.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Ultraviolet Kit Samples\triangle closed.wav

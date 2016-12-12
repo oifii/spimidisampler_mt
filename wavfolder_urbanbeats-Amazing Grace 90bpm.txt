@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Loops\Amazing Grace 90bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Loops\Amazing Grace 90bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\01 BD Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\02 SD Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\03 CLP Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\04 SHK Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\05 PRC Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\06 SUB Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\07 SFX Amazing Grace 90bpm.wav
