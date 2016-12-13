@@ -28,4 +28,7 @@
     <ClInclude Include="..\spiwavset\spiws_partitionset.h" />
     <ClInclude Include="..\spiwavset\spiws_WavSet.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="spi.licenseheader" />
+  </ItemGroup>
 </Project>
